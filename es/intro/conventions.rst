@@ -11,7 +11,7 @@ otros desarrolladores comprendan fácilmente tu código y ayudar.
 Convenciones de Controlador
 ===========================
 
-Los nombres de las clases Controlador son en plurar, en formato ``CamelCase``,
+Los nombres de las clases Controlador son en plural, en formato ``CamelCase``,
 y finalizan con ``Controller``. Ejemplos de nombres son: ``UsuariosController`` 
 y ``CategoriasArticulosController``.
 
